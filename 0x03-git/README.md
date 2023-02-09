@@ -1,1 +1,2 @@
-my second commit
+my people
+git commit -m my new file
